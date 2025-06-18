@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nexsolis | Soluciones sin complicaciones</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background: #1e1e2f; color: white; padding: 20px 0; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    .container { max-width: 1000px; margin: auto; padding: 20px; background: white; }
+    .section { margin-bottom: 40px; }
+    h2 { color: #1e1e2f; }
+    footer { background: #1e1e2f; color: white; text-align: center; padding: 10px; margin-top: 40px; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Nexsolis</h1>
+  <p>Soluciones sin complicaciones</p>
+  <nav>
+    <a href="#servicios">Servicios</a>
+    <a href="#funciona">¿Cómo funciona?</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+</header>
+
+<div class="container">
+  <section class="section" id="inicio">
+    <h2>¿Qué es Nexsolis?</h2>
+    <p>Nexsolis es una empresa digital que actúa como intermediaria para encontrar, comprar y entregar bienes materiales a pedido. Nos encargamos de todo el proceso, desde la cotización hasta la entrega final, con transparencia y eficiencia.</p>
+  </section>
+
+  <section class="section" id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Gestión de compras a pedido</li>
+      <li>Cotización con múltiples proveedores</li>
+      <li>Entrega directa a domicilio</li>
+      <li>Búsqueda de productos difíciles o personalizados</li>
+      <li>Planes de abastecimiento mensual para empresas</li>
+    </ul>
+  </section>
+
+  <section class="section" id="funciona">
+    <h2>¿Cómo funciona?</h2>
+    <ol>
+      <li>Envíanos tu solicitud del producto o servicio que necesitas.</li>
+      <li>Buscamos opciones con nuestros proveedores y cotizamos.</li>
+      <li>Pagas la propuesta aprobada por Yape, Plin o transferencia.</li>
+      <li>Nos encargamos de la compra y la entrega hasta tu puerta.</li>
+    </ol>
+  </section>
+
+  <section class="section" id="contacto">
+    <h2>Contacto</h2>
+    <p>📞 WhatsApp: 941-667-279</p>
+    <p>📧 Email: contacto@nexsolis.com</p>
+    <p>🌐 Instagram/Facebook: @nexsolis.pe</p>
+  </section>
+</div>
+
+<footer>
+  <p>&copy; 2025 Nexsolis. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
